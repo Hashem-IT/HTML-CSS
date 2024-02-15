@@ -1,0 +1,124 @@
+@media only screen and (max-width: 600px) {
+
+
+    .content{
+        width: 80%;
+        margin-left: 20px;
+    }
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+header{
+    background-size: cover;
+    background-position: top;
+    background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)),
+    url(../images/regensburg_panorama.jpg);
+    height: 500px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+.header{
+    display: inline-block;
+    font-size: 36px;
+    width: 80.5%;
+max-width: 805px;
+    margin-top: 200px;
+    color: white;
+    font-family: roboto, serif;
+
+}
+
+.photo_pdf{
+    border-radius: 100%;
+    width: 100px;
+    border: 1px solid white;
+    height: 100px;
+    margin-top: -40px;
+    left: 50%;
+    margin-left: -50px;
+    position:absolute;
+display:block;
+}
+
+#my_Profile_Txt{
+    font-family: source sans pro, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 75px;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+#date{
+    font-family: kursiv;
+    color: rgb(51, 51, 51);
+    margin: 24px;
+    text-align: center;
+}
+
+hr{
+    width: 70px;
+    margin-top: 10px;
+    height: 2px;
+    color: #e6e6e6e6;
+    margin-bottom: 60px;
+}
+
+
+
+
+.number{
+    color: rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.content{
+    display: inline-block;
+    margin-bottom: 120px;
+    margin-left: 40px;
+    width: 66.67%;
+
+}
+
+a{
+    text-decoration: none;
+    color: #42b4d6;
+}
+
+
+
+#title{
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(51, 51, 51);
+}
+
+.photo{
+    width:100%;
+}
+
+#txt_Content{
+    line-height: 32px;
+    font-family: source sans pro, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(51, 51, 51);
+}
+
+#Tipp{
+    margin: 20px 0px;
+}
+
+
+
